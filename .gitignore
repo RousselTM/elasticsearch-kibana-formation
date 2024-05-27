@@ -1,0 +1,4 @@
+.vagrant
+backups/ind*
+backups/meta*
+backups/snap*
