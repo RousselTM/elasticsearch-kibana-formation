@@ -2,6 +2,3 @@ server.host: "0.0.0.0"
 server.shutdownTimeout: "5s"
 monitoring.ui.container.elasticsearch.enabled: true
 #
-xpack:
-  encryptedSavedObjects:
-    encryptionKey: dzsfddgfdsqdg21sgf51s5g1s5g1s51g5fs15gf15s1gb5fs0g5fs5gs5fg05sf
